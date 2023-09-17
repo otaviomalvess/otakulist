@@ -1,6 +1,6 @@
 # OtakuList
 
-OtakuList is an API made for the 2019 web class at UniCEUB.
+OtakuList is an API made for the 2019 UniCEUB web class.
 
 Features:
 - Login authentication.
